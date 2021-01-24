@@ -6,5 +6,5 @@ has a large emphasis on securtiy and privacy.  The private information of a user
 application needs to access a users email, it decrypts it. Furthermore, the applicaion gives users flexability as for which information they will make public, 
 such as weather or not they are on campus.  
 
-Whenever this program is run, it assumes a new user is creaating an account.  The data everytime it is run is stored in a text file called data.txt.
-Somme example data is has already been put in data.txt.
+Whenever this program is run, it assumes a new user is creating an account.  The data everytime it is run is stored in a text file called data.txt.
+Some example data is has already been put in data.txt.  Each line represents a different user. 
