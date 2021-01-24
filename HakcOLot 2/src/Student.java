@@ -19,7 +19,7 @@ public class Student {
 
 
 
-    //Method takes in another student and produces true if this student shares a class with the student
+    //tells user which other studetns in the data base share a class with them
     public void StudentsMatch() throws FileNotFoundException {
 
         File myObj = new File("src/data.txt");
