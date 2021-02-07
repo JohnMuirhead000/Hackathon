@@ -8,3 +8,7 @@ such as weather or not they are on campus.
 
 Whenever this program is run, it assumes a new user is creating an account.  The data everytime it is run is stored in a text file called data.txt.
 Some example data is has already been put in data.txt.  Each line represents a different user. 
+
+Please watch the demo video: 
+
+https://www.youtube.com/watch?v=k8MGFSHQ_js&feature=emb_title
